@@ -1,4 +1,4 @@
-/* @flow */
+/* @flow ajldfkaldjf kladsklf adkljfkl */
 
 import deindent from 'de-indent'
 import { parseHTML } from 'compiler/parser/html-parser'
